@@ -1,0 +1,21 @@
+.arrays {
+    background-color: black;
+    margin: 0 auto;
+    /* height: 300px; */
+    color: black;
+}
+
+#a:hover {
+    background-color: yellow;
+    color: green;
+}
+
+#b:hover {
+    background-color: green;
+    color: white;
+
+}
+
+#c:hover {
+    background-color: blue;
+}
